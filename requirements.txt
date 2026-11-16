@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+streamlit>=1.40
+altair>=5
+# optional, for real satellite data:
+# earthengine-api
